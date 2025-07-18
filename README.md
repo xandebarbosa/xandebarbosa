@@ -48,8 +48,8 @@ Minha experiência inclui o desenvolvimento de **interfaces dinâmicas**, **apli
 **Desenvolvedor de Software** | MAIS QUE RIFA TECNOLOGIA DA INFORMAÇÃO LTDA  
 📅 junho/2023 - atual
 
-- Desenvolvimento de APIs RESTful com Java, Spring Boot, Spring Security e bancos relacionais.
-- Criação de aplicações web responsivas e apps mobile (ReactJS e React Native).
+- Desenvolvimento de APIs RESTful com Java, Spring Boot, Spring Security, Microserviços, RabbitMQ e banco de dados relacionais.
+- Criação de aplicações web responsivas e Apps mobile (ReactJS e React Native).
 - Integração de APIs, gerenciamento de estado (Redux e Context API) e boas práticas de Clean Code.
 - Trabalho em equipe com metodologias ágeis e versionamento com Git.
 
@@ -57,8 +57,8 @@ Minha experiência inclui o desenvolvimento de **interfaces dinâmicas**, **apli
 📅 maio/2021 - abril/2023
 
 - Desenvolvimento de **soluções SaaS** para diferentes demandas do mercado, como desenvolvedor fullstack.
-- **Back-End**: Node.js, Express, Sequelize, PostgreSQL.
-- **Front-End**: ReactJS, Redux, Styled Components, Hooks, Context API.
+- **Back-End**: Node.js, Express, Sequelize, Prisma e PostgreSQL.
+- **Front-End**: ReactJS, Redux, Styled Components, Hooks, Context API, Material-UI e Tailwind CSS.
 - Participação ativa no ciclo completo de desenvolvimento e melhorias de produto.
 
 ---
