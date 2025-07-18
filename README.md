@@ -1,6 +1,6 @@
-# Olá, sou Alexandre Barbosa! [cite_start]👋 [cite: 18]
+# Olá, sou Alexandre Barbosa! 👋 
 
-### Desenvolvedor Full Stack NodeJS | Java | ReactJS | React Native | [cite_start]Spring Boot 
+### Desenvolvedor Full Stack Java | Spring Boot| NodeJS | ReactJS | React Native  
 
 [cite_start]Localização: Bauru, São Paulo, Brasil [cite: 20]
 [cite_start]Contato: [xandesbarbosa@gmail.com](mailto:xandesbarbosa@gmail.com) [cite: 2][cite_start], [LinkedIn](https://www.linkedin.com/in/alexandre-barbosa-33a5252a) 
