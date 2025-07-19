@@ -1,50 +1,113 @@
 # 👋 Olá, sou Alexandre Barbosa!
 
-### Desenvolvedor Full Stack • Java | Spring Boot | NodeJS | ReactJS | React Native
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Java+|+Spring+Boot+|+NodeJS+;+ReactJS+|+React+Native;Sempre+aprendendo+e+evoluindo!&center=true&width=440&height=45">
+</p>
 
-📍 Localização: Bauru, São Paulo, Brasil  
-📫 Contato: [xandesbarbosa@gmail.com](mailto:xandesbarbosa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandre-barbosa-33a5252a)
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Alexandre Barbosa" />
+</p>
+
+---
+
+# 🔗 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-barbosa-33a5252a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:xandesbarbosa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.gg" target="_blank" title="Meu Discord: alexandre_barbosa">
+    <img src="https://img.shields.io/badge/Discord-alexandre_barbosa-629304767939608576?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ---
 
 ## ✨ Sobre Mim
 
-Atualmente sou Desenvolvedor de Software na **MAIS QUE RIFA TECNOLOGIA DA INFORMAÇÃO LTDA**, atuando com Java, Spring Boot, ReactJS e React Native.
+Atualmente sou Desenvolvedor de Software na **MAIS QUE RIFA TECNOLOGIA DA INFORMAÇÃO LTDA**, trabalhando com Java, Spring Boot, ReactJS e React Native.
 
-Tenho sólida experiência no desenvolvimento de **APIs RESTful escaláveis e seguras** usando Java e Spring Boot, aplicando boas práticas como injeção de dependências, arquitetura em camadas e padrões de design. Também possuo conhecimentos em **JPA/Hibernate, PostgreSQL e MongoDB**.
+Tenho experiência na criação de **APIs RESTful escaláveis e seguras**, aplicando boas práticas como Clean Code, SOLID, TDD, arquitetura em camadas e design patterns. Também trabalho com **JPA/Hibernate, PostgreSQL e MongoDB**.
 
-Sou pós-graduado (MBA) em **Engenharia de Software Ágil com Ênfase em Aplicações Web e Mobile**, onde aprofundei práticas como Git Flow, SOLID, Clean Code, TDD, Design Patterns, DevOps, além de arquitetura de sistemas (WebServices e MicroServices).
+Sou pós-graduado em **Engenharia de Software Ágil com Ênfase em Aplicações Web e Mobile**, com foco em DevOps, Microservices, Git Flow e melhores práticas de engenharia.
 
-Minha experiência inclui o desenvolvimento de **interfaces dinâmicas**, **aplicativos móveis multiplataforma** e projetos usando **tipagem estática**. Trabalho com metodologias ágeis, versionamento com Git e conteinerização com Docker. Tenho como foco a **evolução contínua**, sempre buscando transformar conhecimento técnico em soluções inovadoras.
+No dia a dia, desenvolvo aplicações web responsivas, apps multiplataforma e mantenho atenção especial à performance, qualidade e inovação contínua.
 
 ---
 
-## 🛠️ Principais Tecnologias
+## 🛠️ Skills & Tecnologias
 
+### 🚀 Front-end
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" />
+  <img src="https://shadcn.dev/logo.svg" width="50" height="50" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6f1a.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
+</p>
+
+---
+
+### 🛠️ Back-end
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="50" height="50" />
+  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="50" height="50" alt="Prisma"/>
+  <img src="https://avatars.githubusercontent.com/u/133502319?s=200&v=4" width="50" height="50" alt="Drizzle"/>
+</p>
+
+---
+
+### 🗄️ Banco de dados
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+</p>
+
+---
+
+### 🧰 DevOps & Arquitetura
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" />
+  <img src="https://www.rabbitmq.com/img/RabbitMQ-logo.svg" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+</p>
+
+---
+
+### 🔧 Outras ferramentas
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula" width="400"/>
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SeuUsuario&theme=dracula&hide_border=false" />
 </p>
 
 ---
@@ -54,46 +117,38 @@ Minha experiência inclui o desenvolvimento de **interfaces dinâmicas**, **apli
 **Desenvolvedor de Software** | MAIS QUE RIFA TECNOLOGIA DA INFORMAÇÃO LTDA  
 📅 junho/2023 - atual
 
-- Desenvolvimento de APIs RESTful com Java, Spring Boot, Spring Security, Microserviços, RabbitMQ e banco de dados relacionais.
-- Criação de aplicações web responsivas e Apps mobile (ReactJS e React Native).
-- Integração de APIs, gerenciamento de estado (Redux e Context API) e boas práticas de Clean Code.
-- Trabalho em equipe com metodologias ágeis e versionamento com Git.
+- APIs RESTful com Java, Spring Boot, Microserviços, RabbitMQ.
+- Apps web/mobile (ReactJS & React Native).
+- Boas práticas (Clean Code, TDD, SOLID).
 
 **Desenvolvedor Full Stack** | Ikatec  
 📅 maio/2021 - abril/2023
 
-- Desenvolvimento de **soluções SaaS** para diferentes demandas do mercado, como desenvolvedor fullstack.
-- **Back-End**: Node.js, Express, Sequelize, Prisma e PostgreSQL.
-- **Front-End**: ReactJS, Redux, Styled Components, Hooks, Context API, Material-UI e Tailwind CSS.
-- Participação ativa no ciclo completo de desenvolvimento e melhorias de produto.
+- Soluções SaaS para múltiplas demandas.
+- Back-End: Node.js, Express, Sequelize, Prisma.
+- Front-End: ReactJS, Redux, Tailwind CSS, Material-UI.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-**MBA - Engenharia de Software Ágil com Ênfase em Aplicações Web e Mobile**  
-FIB - Faculdades Integradas de Bauru | 2023
-
-**Bacharelado em Ciência da Computação**  
-UNIP - Universidade Paulista | 2006 - 2010
+- **MBA** - Engenharia de Software Ágil | FIB (2023)
+- **Ciência da Computação** | UNIP (2006-2010)
 
 ---
 
 ## 📜 Certificações & Cursos
 
 - Bootcamp Santander 2024 - Java
-- NLW Connect - Node.js, React
-- NLW Pocket: Javascript - Full-stack Intermediário
-- Cursos especializados em Java, Spring Boot, Node.js, React.js, React Native e PHP pelas plataformas RocketSeat, OneBitCode e DIO.
+- NLW Connect (Node.js & React)
+- NLW Pocket: Javascript
+- RocketSeat, OneBitCode e DIO (Java, Spring Boot, Node.js, React Native, PHP)
 
 ---
 
 ## 🤝 Conecte-se comigo!
+⭐ Se curtir meus projetos, deixe uma estrela!  
+📬 [LinkedIn](https://www.linkedin.com/in/alexandre-barbosa-33a5252a/) | [E-mail](mailto:xandesbarbosa@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-barbosa-33a5252a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xandesbarbosa@gmail.com)
 
----
-
-⭐ Se você gostou dos meus projetos, deixe uma estrela!
 
