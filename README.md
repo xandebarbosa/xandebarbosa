@@ -48,7 +48,7 @@ No dia a dia, desenvolvo aplicações web responsivas, apps multiplataforma e ma
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" />
   <img src="./32px-Tailwind_CSS_Logo.svg.png" width="50" height="50" />
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6f1a.svg" width="50" height="50" />
+  <img src="./shadcn-ui-seeklogo.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
