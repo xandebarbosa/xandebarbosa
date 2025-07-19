@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Java+|+Spring+Boot+|+NodeJS+;+ReactJS+|+React+Native;Sempre+aprendendo+e+evoluindo!&center=true&width=440&height=45">
 </p>
 
-<!-- Banner personalizado -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner Alexandre Barbosa" />
+  <img src="https://camo.githubusercontent.com/561388c98e4be50f957df692cd3c5f7f0b41931460ba0f7511109737f242170a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" alt="Animated Banner" />
 </p>
 
 ---
