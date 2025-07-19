@@ -80,7 +80,7 @@ No dia a dia, desenvolvo aplicações web responsivas, apps multiplataforma e ma
 ### 🧰 DevOps & Arquitetura
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://www.rabbitmq.com/img/RabbitMQ-logo.svg" width="50" height="50" />
+  <img src="./rabbitmq-logo-svgrepo-com.svg" width="50" height="50" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white" height="30" />
 </p>
 
